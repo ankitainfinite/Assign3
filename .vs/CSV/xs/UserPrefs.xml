@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{4CEC8B22-99D7-4A02-BBF2-42338F8E6017}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSV/Program.cs">
+    <Files>
+      <File FileName="CSV/Program.cs" Line="121" Column="49" />
+      <File FileName="CSV/Models/Constants.cs" Line="36" Column="1" />
+      <File FileName="CSV/Models/Utilities/FTP.cs" Line="173" Column="1" />
+      <File FileName="CSV/Models/Student.cs" Line="139" Column="10" />
+      <File FileName="CSV/Models/Utilities/Imaging.cs" Line="6" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSV" expanded="True">
+            <Node name="CSV" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Utilities" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>parsedData</Value>
+          <Value>headers</Value>
+          <Value>values</Value>
+          <Value>updatedCsvText</Value>
+          <Value>headerString</Value>
+          <Value>valueString</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.CSV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ankitasingh/Downloads/Assignments/CSV/CSV/Models/jc8r6n77.6kg~" relfile="CSV/Models/jc8r6n77.6kg~" line="192" column="1" />
+      <Breakpoint file="/Users/ankitasingh/Downloads/Assignments/CSV/CSV/Models/Utilities/egiyr2od.ciw~" relfile="CSV/Models/Utilities/egiyr2od.ciw~" line="62" column="1" />
+      <Breakpoint file="/Users/ankitasingh/Downloads/Assignments/CSV/CSV/Models/Utilities/kwdm2usx.ppm~" relfile="CSV/Models/Utilities/kwdm2usx.ppm~" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
